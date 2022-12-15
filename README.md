@@ -9,6 +9,7 @@
 
 ## DPP-based Approaches
 - Wilhelm, Mark, et al. "Practical diversified recommendations on youtube with determinantal point processes." Proceedings of the 27th ACM International Conference on Information and Knowledge Management. 2018.
+- [Fast Greedy MAP Inference for Determinantal Point Process to Improve Recommendation Diversity](https://arxiv.org/abs/1709.05135) [NeurIPS'18]
 - [Sliding Spectrum Decomposition for Diversified Recommendation](http://arxiv.org/abs/2107.05204) [KDD'21]
 
 ## Listwise Modeling
